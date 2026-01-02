@@ -1,38 +1,25 @@
-# pico
+# Project Name
 
-This template should help get you started developing with Vue 3 in Vite.
+## Description
+A simple web page demonstrating responsive web design using CSS and Vue.js.
 
-## Recommended IDE Setup
+---
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Tech Stack
 
-## Recommended Browser Setup
+- **Frontend Framework:** Vue 3  
+- **CSS Framework:** Tailwind CSS  
+- **Assets:** SVG and PNG images  
+- **Build Tool:** Vite (default for Vue 3 projects)  
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+---
 
-## Customize configuration
+## Features
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- Birds fly diagonally across the screen with a flipped version for opposite direction.  
+- Birds appear above clouds using absolute positioning and z-index.  
+- Preserves original bird image sizes even inside flex containers.  
+- Pure CSS animation, no JS required for motion.  
+- Configurable animation delay and speed.  
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+---
