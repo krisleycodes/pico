@@ -1,4 +1,5 @@
 # Project Name
+Pico
 
 ## Description
 A simple web page demonstrating responsive web design using CSS and Vue.js.
