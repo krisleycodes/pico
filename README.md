@@ -24,3 +24,9 @@ A simple web page demonstrating responsive web design using CSS and Vue.js.
 - Configurable animation delay and speed.  
 
 ---
+
+## Live URL 
+
+- https://pico-tawny.vercel.app/
+
+---
