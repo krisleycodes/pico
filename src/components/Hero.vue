@@ -35,7 +35,7 @@
                 <div class="text-center items-center flex flex-col">
                     <!-- Badge -->
                     <div class="mb-5">
-                        <img src="./assets/Frame 29.png" alt="">
+                        <img src="./assets/automation.png" alt="">
                     </div>
 
                     <!-- Heading -->
